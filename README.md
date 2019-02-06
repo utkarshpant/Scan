@@ -1,3 +1,5 @@
+# Due Credits: Forked from Aaditya Naik's Original Work, for general reference and experimentation. 
+
 # Scan
 A class similar to Java's Scanner class which verifies user input.<br/>
 
